@@ -7,4 +7,5 @@ As a Junior Data Analyst, my role was to:
 Understand performance across products, time periods, and store segments
 Identify high and low revenue drivers
 Discover patterns in customer spending behaviour
-Build dashboards and clear recommendations for executive decisiom
+Build dashboards and clear recommendations for executive decision making processes
+# Summary of Key Findings
